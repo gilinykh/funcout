@@ -1,6 +1,6 @@
 # funcout
 
-![](https://github.com/gilinykh/funcout/workflows/.github/workflows/maven.yml/badge.svg)
+![build](https://github.com/gilinykh/funcout/workflows/Java%20CI/badge.svg)
 
 Either monad implemented in Java for control flow processing in functional style.
 
