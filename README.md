@@ -1,5 +1,7 @@
 # funcout
 
+![](https://github.com/actions/hello-world/workflows/.github/workflows/maven.yml/badge.svg)
+
 Either monad implemented in Java for control flow processing in functional style.
 
 Example: 
